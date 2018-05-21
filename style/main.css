@@ -330,22 +330,28 @@ hr {
     font-size: 0px; }
   .tile.tile-2 .tile-inner {
     background-image: url("../assets/2.png");
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); 
+    font-size: 0px; }
   .tile.tile-4 .tile-inner {
     background-image: url("../assets/4.png");
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); 
+    font-size: 0px; }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
-    background-image: url("../assets/8.png"); }
+    background-image: url("../assets/8.png"); 
+    font-size: 0px; }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
-    background-image: url("../assets/16.png"); }
+    background-image: url("../assets/16.png"); 
+    font-size: 0px; }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
-    background-image: url("../assets/32.png"); }
+    background-image: url("../assets/32.png"); 
+    font-size: 0px; }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
-    background-image: url("../assets/64.png"); }
+    background-image: url("../assets/64.png"); 
+    font-size: 0px; }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     background-image: url("../assets/128.png");
