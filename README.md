@@ -1,1 +1,1 @@
-Based on a gabe by Gabriel Ecirulli
+Based on a game by Gabriele Cirulli
