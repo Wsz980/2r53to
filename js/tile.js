@@ -1,7 +1,9 @@
-function Tile(position, value) {
+function Tile(position, value, integral) {
   this.x                = position.x;
   this.y                = position.y;
   this.value            = value || 2;
+  
+  this.integral			= integral;
 
   this.previousPosition = null;
   this.mergedFrom       = null; // Tracks tiles that merged together

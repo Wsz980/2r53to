@@ -1,0 +1,1 @@
+All pictures used for this Meme Edition. All other editions will also be done in a similar format for the images. When a new editon is created, keep at least 1 copy of the images in a sub folder named with the edition. Ex. MaxDistructo/2048-Meme-Edition/assets/meme for the meme edition.
