@@ -62,7 +62,7 @@ HTMLActuator.prototype.addTile = function (tile) {
   this.applyClasses(wrapper, classes);
 
   inner.classList.add("tile-inner");
-  inner.textContent = "D" + tile.value;
+  //inner.textContent = "D" + tile.value;
   //inner.textContent = null;                                                    //REMOVING NUMVERS FROM TILES
   if(tile.integral){
 	  inner.textContent = "I" + tile.value;
