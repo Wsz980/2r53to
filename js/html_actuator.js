@@ -65,7 +65,7 @@ HTMLActuator.prototype.addTile = function (tile) {
   //inner.textContent = "D" + tile.value;
   //inner.textContent = null;                                                    //REMOVING NUMVERS FROM TILES
   if(tile.integral){
-	  inner.textContent = "I" + tile.value;
+	  inner.textContent = "∫dx" + (tile.value/2);
   }
 
   if (tile.previousPosition) {
